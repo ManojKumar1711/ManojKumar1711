@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manoj Kumar Reddy.C
-- 👀 I’m interested in programming and software development
-- 🌱 I’m currently learning python.
-- 📫 I'm a student in RMKCET .
+- 👀 I’m interested in ............
+- 🌱 I’m currently learning django.
+- 📫 I'm a student at RMKCET .
 
 <!---
 ManojKumar1711/ManojKumar1711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
